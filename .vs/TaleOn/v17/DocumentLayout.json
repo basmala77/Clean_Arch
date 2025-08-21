@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TaleOn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32416F2F-0A71-4D43-8F1E-6261C6E5488E}|TaleOn\\TaleOn.csproj|d:\\taleon\\taleon\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32416F2F-0A71-4D43-8F1E-6261C6E5488E}|TaleOn\\TaleOn.csproj|solutionrelative:taleon\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\TaleOn\\TaleOn\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TaleOn\\WeatherForecast.cs",
+              "ToolTip": "D:\\TaleOn\\TaleOn\\WeatherForecast.cs",
+              "RelativeToolTip": "TaleOn\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:41:16.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
